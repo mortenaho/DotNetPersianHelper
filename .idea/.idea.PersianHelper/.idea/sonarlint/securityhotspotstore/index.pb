@@ -7,3 +7,7 @@ Q
 !PersianHelper/PersianConverter.cs,9\8\98c9d3b90cfe9fbdbd5447577fadf745c5cf0bb1
 K
 PersianHelper/DateHelper.cs,f\b\fb277ce009ed479d74e22efe7d5e1e78104adeb3
+L
+PersianHelper/docs/README.md,2\a\2a17df925adf40029f878a2a83756ebba82aeee7
+R
+"PersianHelper/PersianHelper.csproj,3\d\3d66dee1a5f979ecba4b344fde5c2f8d387f36c5
